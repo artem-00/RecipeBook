@@ -23,17 +23,29 @@
 
 ### 2.2 Интерфейс пользователя
 - Окно регистрации или авторизации
+- 
 ![image](https://github.com/user-attachments/assets/94d25245-a220-4a99-948d-203e93496987)
+
 - Окно избранных рецептов и поиска нужных
+- 
 ![image](https://github.com/user-attachments/assets/86c4ee54-821e-4997-98b7-aeb61aaa844a)
+
 - Окно сохраненных рецептов
+- 
 ![image](https://github.com/user-attachments/assets/eb440bfe-8fa4-4d73-9bed-0882a1cb1bec)
+
 - Окно просмотра рецепта
+- 
 ![image](https://github.com/user-attachments/assets/4d53a9e8-54a2-4f40-808c-19a54abe2ef2)
+
 - Окно таймера
+- 
 ![image](https://github.com/user-attachments/assets/b62380a8-38c4-4306-9d88-13a5d4f0bb9f)
+
 - Окно секундомера
+- 
 ![image](https://github.com/user-attachments/assets/181841ba-2815-4a9a-bd12-69691e4b7be4)
+
 
 
 ### 2.3 Характеристики пользователей
