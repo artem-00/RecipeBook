@@ -46,11 +46,19 @@
 Приложение будет позволять пользователям добавлять рецепты из различных источников и редактировать их для личного использования.
 
 ### 2.2 Интерфейс пользователя
-- Окно входа в приложение
 - Окно регистрации или авторизации
+[Регистрация или авторизация](https://github.com/artem-00/RecipeBook/blob/main/info/mockaps/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F.jpg)
 - Окно поиска рецептов
+[Поиск рецептов](https://github.com/artem-00/RecipeBook/blob/main/info/mockaps/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%BE%D0%B2.jpg)
 - Окно сохраненных рецептов
+[Список рецептов](https://github.com/artem-00/RecipeBook/blob/main/info/mockaps/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%BE%D0%B2.jpg)
 - Окно просмотра рецепта
+  [Рецепт](https://github.com/artem-00/RecipeBook/blob/main/info/mockaps/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82.jpg)
+- Окно таймера
+[Таймер](https://github.com/artem-00/RecipeBook/blob/main/info/mockaps/%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80.jpg)
+- Окно секундомера
+[Секундомер](https://github.com/artem-00/RecipeBook/blob/main/info/mockaps/%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%BE%D0%BC%D0%B5%D1%80.jpg)
+
 
 ### 2.3 Характеристики пользователей
 #### 2.3.1 Классы пользователей
