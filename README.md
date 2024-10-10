@@ -24,7 +24,7 @@
 - Kotlin для разработки
 - Доступ к интернету для загрузки рецептов и изображений
 - Доступ к файловой системе для загрузки изображений
-- [Подробнее]((https://github.com/artem-00/RecipeBook/blob/main/info/srs.md)
+- [Подробнее](https://github.com/artem-00/RecipeBook/blob/main/info/srs.md)
 
 ## Установка
 1. Склонируйте репозиторий:
