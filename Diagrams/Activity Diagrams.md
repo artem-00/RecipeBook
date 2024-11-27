@@ -9,10 +9,10 @@
 
 ![](./img/ActivityDiagramRegister.png)
 
-## 2. Searching and filtering
+## 2. Searching
 
 ![](./img/ActivityDiagramSearchRecipe.png)
 
-## 3. Adding to "Favorites"/"Booked"
+## 3. Adding
 
 ![](./img/ActivityDiagramAddRecipe.png)
